@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/dankons/arduino-1.8.7/libraries/Servo/src",
+                "/home/dankons/arduino-1.8.7/tools/**",
+                "/home/dankons/arduino-1.8.7/hardware/arduino/avr/**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Users\\rudol\\AppData\\Local\\Arduino15\\packages\\SODAQ\\hardware\\samd\\1.6.20\\**"
+            ],
+            "forcedInclude": [
+                "/home/dankons/arduino-1.8.7/hardware/arduino/avr/cores/arduino/Arduino.h",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "C:\\Users\\rudol\\AppData\\Local\\Arduino15\\packages\\SODAQ\\hardware\\samd\\1.6.20\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\rudol\\AppData\\Local\\Arduino15\\packages\\SODAQ\\hardware\\samd\\1.6.20\\**",
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\rudol\\AppData\\Local\\Arduino15\\packages\\SODAQ\\hardware\\samd\\1.6.20\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}

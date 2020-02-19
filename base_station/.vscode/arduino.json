@@ -1,0 +1,6 @@
+{
+    "sketch": "base_station.ino",
+    "board": "SODAQ:samd:sodaq_sara",
+    "port": "COM4",
+    "programmer": "AVRISP mkII"
+}

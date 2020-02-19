@@ -1,2 +1,5 @@
-# lmt-iot-ventwin
- VentWin project for LMT IoT Hackathon
+# VentWin
+
+### VentWin project for LMT IoT Hackathon
+
+Developed for SONAQ SARA N211 boards.

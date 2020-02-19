@@ -1,0 +1,6 @@
+{
+    "sketch": "receiver.ino",
+    "board": "SODAQ:samd:sodaq_sara",
+    "port": "COM8",
+    "programmer": "AVRISP mkII"
+}
